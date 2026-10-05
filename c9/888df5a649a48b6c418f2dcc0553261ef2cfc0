@@ -1,0 +1,19 @@
+directory/tools.md
+  s_a3d4ff67b7bf00::t_d2f617cfeb22a5 54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c9888df5a649a48b6c418f2dcc0553261ef2cfc0",
+  "prompts": {},
+  "sessions": {
+    "s_a3d4ff67b7bf00": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9d22397-14df-4bef-bafc-4ea6efffff8e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Martin Varela Lorenzo <martinvl@ext.zara.com>"
+    }
+  }
+}
